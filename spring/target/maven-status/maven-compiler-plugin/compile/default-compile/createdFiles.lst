@@ -1,0 +1,5 @@
+com\api\spring\Application.class
+com\api\spring\controller\ProdutoController.class
+com\api\spring\repository\ProdutoRepository.class
+com\api\spring\service\ProdutoService.class
+com\api\spring\model\Produto.class
